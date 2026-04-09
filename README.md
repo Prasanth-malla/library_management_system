@@ -103,6 +103,7 @@ Contains SQL scripts to setup the database:
 5. Access via browser:
 
    Admin: http://localhost/library_management_system/admin/index.php
+   
    Student: http://localhost/library_management_system/student/index.php
 
 Contact
